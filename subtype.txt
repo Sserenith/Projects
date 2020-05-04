@@ -1,0 +1,30 @@
+Athletic Fields And Courts
+Apartments, College, University
+Athletic Bldgs, College, University
+Auditoriums
+Cafeterias, College, University
+Community Centers
+Detention Centers
+Detention Center
+Elementary
+Fire And Police Stations
+Government - Misc.
+Government Offices
+Golf Course
+High Schools
+Military
+Military - Misc.
+Nursing Homes
+Park Facilities
+Prisons
+Prison
+Parks And Landscaping
+Pre Schools
+Preschools
+Preschool
+Religious Auditoriums
+Sewage Treatment Plants
+Sports Arenas/Convention Centers
+School
+University
+Vocational Schools
